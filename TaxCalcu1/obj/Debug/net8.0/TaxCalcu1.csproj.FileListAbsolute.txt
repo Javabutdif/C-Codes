@@ -1,0 +1,14 @@
+C:\Users\james\Desktop\C#\TaxCalcu1\bin\Debug\net8.0\TaxCalcu1.exe
+C:\Users\james\Desktop\C#\TaxCalcu1\bin\Debug\net8.0\TaxCalcu1.deps.json
+C:\Users\james\Desktop\C#\TaxCalcu1\bin\Debug\net8.0\TaxCalcu1.runtimeconfig.json
+C:\Users\james\Desktop\C#\TaxCalcu1\bin\Debug\net8.0\TaxCalcu1.dll
+C:\Users\james\Desktop\C#\TaxCalcu1\bin\Debug\net8.0\TaxCalcu1.pdb
+C:\Users\james\Desktop\C#\TaxCalcu1\obj\Debug\net8.0\TaxCalcu1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Desktop\C#\TaxCalcu1\obj\Debug\net8.0\TaxCalcu1.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\C#\TaxCalcu1\obj\Debug\net8.0\TaxCalcu1.AssemblyInfo.cs
+C:\Users\james\Desktop\C#\TaxCalcu1\obj\Debug\net8.0\TaxCalcu1.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\C#\TaxCalcu1\obj\Debug\net8.0\TaxCalcu1.dll
+C:\Users\james\Desktop\C#\TaxCalcu1\obj\Debug\net8.0\refint\TaxCalcu1.dll
+C:\Users\james\Desktop\C#\TaxCalcu1\obj\Debug\net8.0\TaxCalcu1.pdb
+C:\Users\james\Desktop\C#\TaxCalcu1\obj\Debug\net8.0\TaxCalcu1.genruntimeconfig.cache
+C:\Users\james\Desktop\C#\TaxCalcu1\obj\Debug\net8.0\ref\TaxCalcu1.dll
